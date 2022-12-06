@@ -7,7 +7,7 @@
 
 <h2> Math in Python Practice:</h2>
   
-  -[Implementing algoritms in python]()
+  - <b>[Implementing algoritms in python]()
   
 <h2>Skill:s</h2>
 

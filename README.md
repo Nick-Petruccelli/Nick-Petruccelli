@@ -2,7 +2,7 @@
 
 <h2> Data Science Projects:</h2>
 
-- <b>[Generalized Linear Regretion Tool]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Nick-Petruccelli/Generalized-Linear-Regretion-Tool)) </b>
+- <b>[Generalized Linear Regretion Tool](https://github.com/Nick-Petruccelli/Generalized-Linear-Regretion-Tool)</b>
   - Python, Jupiter Notebook, Pandas, MatPlotLib
 
 <h2>Skills</h2>

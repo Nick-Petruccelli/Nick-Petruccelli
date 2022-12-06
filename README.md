@@ -5,7 +5,11 @@
 - <b>[Generalized Linear Regretion Tool](https://github.com/Nick-Petruccelli/Generalized-Linear-Regretion-Tool)</b>
   - Python, Jupiter Notebook, Pandas, MatPlotLib
 
-<h2>Skills</h2>
+<h2> Math in Python Practice:</h2>
+  
+  -[Implementing algoritms in python]()
+  
+<h2>Skill:s</h2>
 
 - Understanding of fundemental statistical methods
 - Stong understanding of calculus

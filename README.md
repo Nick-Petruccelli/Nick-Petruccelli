@@ -11,7 +11,7 @@
   
   - <b>[Implementing algoritms in python](https://github.com/Nick-Petruccelli/Implementing-algoritms-in-python)
   
-<h2>Skill:s</h2>
+<h2>Skills</h2>
 
 - Understanding of fundemental statistical methods
 - Stong understanding of calculus

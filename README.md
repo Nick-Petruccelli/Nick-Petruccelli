@@ -2,12 +2,13 @@
 
 <h2> Data Science Projects:</h2>
 
+- <b>[Olimpic Gold Medal Predictor](https://github.com/Nick-Petruccelli/Olimpic-Medal-Predicter)
 - <b>[Generalized Linear Regretion Tool](https://github.com/Nick-Petruccelli/Generalized-Linear-Regretion-Tool)</b>
   - Python, Jupiter Notebook, Pandas, MatPlotLib
 
 <h2> Math in Python Practice:</h2>
   
-  - <b>[Implementing algoritms in python]()
+  - <b>[Implementing algoritms in python](https://github.com/Nick-Petruccelli/Implementing-algoritms-in-python)
   
 <h2>Skill:s</h2>
 

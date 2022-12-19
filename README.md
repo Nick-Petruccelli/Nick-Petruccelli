@@ -3,9 +3,9 @@
 <h2> Data Science Projects:</h2>
 
 - <b>[Youtube Veiws Prediction Model](https://github.com/Nick-Petruccelli/YT-Views-Prediction_Model)
-  - Python, Youtube API, Jupiter Notebook, Pandas,Sci-Kit Learn, Matplotlib, Seaborn
+  - Python, Youtube API, Jupiter Notebook, Pandas, Sci-Kit Learn, Matplotlib, Seaborn
 - <b>[Olimpic Gold Medal Predictor](https://github.com/Nick-Petruccelli/Olimpic-Medal-Predicter)
-  - Python, Jupiter Notebook, Pandas,Sci-Kit Learn, Matplotlib, Seaborn
+  - Python, Jupiter Notebook, Pandas, Sci-Kit Learn, Matplotlib, Seaborn
 - <b>[Generalized Linear Regretion Tool](https://github.com/Nick-Petruccelli/Generalized-Linear-Regretion-Tool)</b>
   - Python, Jupiter Notebook, Pandas, MatPlotLib
 

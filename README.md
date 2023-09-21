@@ -1,5 +1,14 @@
 <h1>My Portfolio 
 
+<h2> Software Development Projects:</h2>
+
+  -<b>[BlackJack Web App](https://github.com/Nick-Petruccelli/Web-App-BlackJack)
+    - html, JavaScript, CSS
+  -<b>[Dungen Crawler Game in Unity](https://github.com/DungeonCrawlerProject/cs-app-dungeon-crawler/tree/main)
+    - C#, Unity
+  -<B>[Game With OpenGL](https://github.com/Nick-Petruccelli/cpp-platformer)
+    - C++, OpenGL
+
 <h2> Data Science Projects:</h2>
 
 - <b>[Youtube Veiws Prediction Model](https://github.com/Nick-Petruccelli/YT-Views-Prediction_Model)

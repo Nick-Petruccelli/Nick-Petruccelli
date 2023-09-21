@@ -2,11 +2,11 @@
 
 <h2> Software Development Projects:</h2>
 
-  -<b>[BlackJack Web App](https://github.com/Nick-Petruccelli/Web-App-BlackJack)
+  - <b>[BlackJack Web App](https://github.com/Nick-Petruccelli/Web-App-BlackJack)
     - html, JavaScript, CSS
-  -<b>[Dungen Crawler Game in Unity](https://github.com/DungeonCrawlerProject/cs-app-dungeon-crawler/tree/main)
+  - <b>[Dungen Crawler Game in Unity](https://github.com/DungeonCrawlerProject/cs-app-dungeon-crawler/tree/main)
     - C#, Unity
-  -<B>[Game With OpenGL](https://github.com/Nick-Petruccelli/cpp-platformer)
+  - <B>[Game With OpenGL](https://github.com/Nick-Petruccelli/cpp-platformer)
     - C++, OpenGL
 
 <h2> Data Science Projects:</h2>

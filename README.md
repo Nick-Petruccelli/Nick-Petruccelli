@@ -4,7 +4,7 @@
 
   - <b>[BlackJack Web App](https://github.com/Nick-Petruccelli/Web-App-BlackJack)
     - html, JavaScript, CSS
-    - [Websight}(https://nick-petruccelli.github.io/Web-App-BlackJack/)
+    - [Websight](https://nick-petruccelli.github.io/Web-App-BlackJack/)
   - <b>[Dungen Crawler Game in Unity](https://github.com/DungeonCrawlerProject/cs-app-dungeon-crawler/tree/main)
     - C#, Unity
   - <B>[Game With OpenGL](https://github.com/Nick-Petruccelli/cpp-platformer)

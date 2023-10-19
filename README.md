@@ -3,20 +3,20 @@
 <h2> Software Development Projects:</h2>
 
   - <b>[BlackJack Web App](https://github.com/Nick-Petruccelli/Web-App-BlackJack)
-    - html, JavaScript, CSS
+    - HTML, JavaScript, CSS
     - [Websight](https://nick-petruccelli.github.io/Web-App-BlackJack/)
   - <b>[Dungen Crawler Game in Unity](https://github.com/DungeonCrawlerProject/cs-app-dungeon-crawler/tree/main)
     - C#, Unity
-  - <B>[Game With OpenGL](https://github.com/Nick-Petruccelli/cpp-platformer)
-    - C++, OpenGL
+  - <B>[Error Correcting Transmition](https://github.com/Nick-Petruccelli/Error-Correcting-Transmition)
+    - Python, PyQt5
 
 <h2> Data Science Projects:</h2>
 
-- <b>[Youtube Veiws Prediction Model](https://github.com/Nick-Petruccelli/YT-Views-Prediction_Model)
+- <b>[Youtube Views Prediction Model](https://github.com/Nick-Petruccelli/YT-Views-Prediction_Model)
   - Python, Youtube API, Jupiter Notebook, Pandas, Sci-Kit Learn, Matplotlib, Seaborn
 - <b>[Olimpic Gold Medal Predictor](https://github.com/Nick-Petruccelli/Olimpic-Medal-Predicter)
   - Python, Jupiter Notebook, Pandas, Sci-Kit Learn, Matplotlib, Seaborn
-- <b>[Generalized Linear Regretion Tool](https://github.com/Nick-Petruccelli/Generalized-Linear-Regretion-Tool)</b>
+- <b>[Generalized Linear Regression Tool](https://github.com/Nick-Petruccelli/Generalized-Linear-Regretion-Tool)</b>
   - Python, Jupiter Notebook, Pandas, MatPlotLib
   
 <h2>Skills</h2>

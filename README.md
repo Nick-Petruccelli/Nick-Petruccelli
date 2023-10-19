@@ -25,13 +25,8 @@
   
 <h2>Skills</h2>
 
-- Understanding of fundemental statistical methods
-- Stong understanding of calculus
-- Python
-- Jupiter Notebook
-- Pandas
-- MatPlotLib
-- Exel
+  - Languages: Python, Java, C#, JavaScript, HTML, CSS
+  - Professional Software: git, GitHub, Microsoft Office, Google Suites
 
 <h2> Connect with me:</h2>
 

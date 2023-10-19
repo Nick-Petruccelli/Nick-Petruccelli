@@ -18,10 +18,6 @@
   - Python, Jupiter Notebook, Pandas, Sci-Kit Learn, Matplotlib, Seaborn
 - <b>[Generalized Linear Regretion Tool](https://github.com/Nick-Petruccelli/Generalized-Linear-Regretion-Tool)</b>
   - Python, Jupiter Notebook, Pandas, MatPlotLib
-
-<h2> Math in Python Practice:</h2>
-  
-  - <b>[Implementing algoritms in python](https://github.com/Nick-Petruccelli/Implementing-algoritms-in-python)
   
 <h2>Skills</h2>
 
@@ -33,17 +29,3 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/nick-petruccelli-b8717625a/
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -1,14 +1,14 @@
 <h1>My Portfolio 
 
 <h2> Software Development Projects:</h2>
-  - <b>[RPG Rouglike](https://github.com/DungeonCrawlerProject/py-dungeon-crawler)</b>
+  - <b>[RPG Rouglike](https://github.com/DungeonCrawlerProject/py-dungeon-crawler)
     -Python, PyGame
   - <b>[BlackJack Web App](https://github.com/Nick-Petruccelli/Web-App-BlackJack)
     - HTML, JavaScript, CSS
     - [Websight](https://nick-petruccelli.github.io/Web-App-BlackJack/)
   - <b>[Dungen Crawler Game in Unity](https://github.com/DungeonCrawlerProject/cs-app-dungeon-crawler/tree/main)
     - C#, Unity
-  - <B>[Error Correcting Transmition](https://github.com/Nick-Petruccelli/Error-Correcting-Transmition)
+  - <b>[Error Correcting Transmition](https://github.com/Nick-Petruccelli/Error-Correcting-Transmition)
     - Python, PyQt5
 
 <h2> Data Science Projects:</h2>

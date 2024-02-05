@@ -25,7 +25,7 @@
   
 <h2>Skills</h2>
 
-  - Languages: Python, Java, C#, JavaScript, HTML, CSS
+  - Languages: Python, Java, C/C++, C#, JavaScript, HTML, CSS
   - Professional Software: git, GitHub, Microsoft Office, Google Suites
 
 <h2> Connect with me:</h2>

@@ -7,7 +7,7 @@
   
 -  <b>[BlackJack Web App](https://github.com/Nick-Petruccelli/Web-App-BlackJack)
     *  HTML, JavaScript, CSS
-    * [Websight](https://nick-petruccelli.github.io/Web-App-BlackJack/)
+    * [Website](https://nick-petruccelli.github.io/Web-App-BlackJack/)
     
 -  <b>[Error Correcting Transmition](https://github.com/Nick-Petruccelli/Error-Correcting-Transmition)
     * Python, PyQt5

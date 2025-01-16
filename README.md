@@ -8,6 +8,9 @@
 -  <b>[Stock Market Trading Agent](https://github.com/Nick-Petruccelli/stockBot)
     *  Python, Keras, Tensorflow, Cuda
 
+-  <b>[3D Graphics Engine](https://github.com/Nick-Petruccelli/my3DEngine)
+    *  C, OpenGL
+   
 -  <b>[RPG Rouglike](https://github.com/DungeonCrawlerProject/py-dungeon-crawler)
     *  Python, PyGame
   

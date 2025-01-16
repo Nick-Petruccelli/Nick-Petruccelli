@@ -1,4 +1,4 @@
-<h1>My Portfolio 
+<h1>My Portfolio</h1>
 
 <h2> Software Development Projects:</h2>
 

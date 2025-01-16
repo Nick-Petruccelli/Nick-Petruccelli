@@ -6,7 +6,7 @@
     *  Python, ROS
  
 -  <b>[Stock Market Trading Agent](https://github.com/Nick-Petruccelli/stockBot)
-    *  Python, PyGame
+    *  Python, Keras, Tensorflow, Cuda
 
 -  <b>[RPG Rouglike](https://github.com/DungeonCrawlerProject/py-dungeon-crawler)
     *  Python, PyGame

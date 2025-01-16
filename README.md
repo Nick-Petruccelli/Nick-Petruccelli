@@ -2,6 +2,12 @@
 
 <h2> Software Development Projects:</h2>
 
+-  <b>[Seeing Eye Robot](https://github.com/samchristoph/ITCS-5150-Project)
+    *  Python, ROS
+ 
+-  <b>[Stock Market Trading Agent](https://github.com/Nick-Petruccelli/stockBot)
+    *  Python, PyGame
+
 -  <b>[RPG Rouglike](https://github.com/DungeonCrawlerProject/py-dungeon-crawler)
     *  Python, PyGame
   
@@ -11,8 +17,6 @@
     
 -  <b>[Error Correcting Transmition](https://github.com/Nick-Petruccelli/Error-Correcting-Transmition)
     * Python, PyQt5
-
-<h2> Data Science Projects:</h2>
 
 - <b>[Youtube Views Prediction Model](https://github.com/Nick-Petruccelli/YT-Views-Prediction_Model)
   - Python, Youtube API, Jupiter Notebook, Pandas, Sci-Kit Learn, Matplotlib, Seaborn

@@ -2,6 +2,12 @@
 
 <h2> Software Development Projects:</h2>
 
+-  <b>[NSA Smart Maintenance System](https://github.com/ITSC-4155-002)
+    *  Python, Flask, AWS, React, Docker
+
+-  <b>[Wildlands(Colony Sim Game)](https://github.com/Nick-Petruccelli/Wildlands)
+    *  Godot, GDscript
+      
 -  <b>[Seeing Eye Robot](https://github.com/samchristoph/ITCS-5150-Project)
     *  Python, ROS
  
